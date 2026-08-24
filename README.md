@@ -5,6 +5,7 @@ I used Sauce Labs **MY DEMO APP** application (which is publicly available andro
 For this project, the e-commerce category is used to demonstrate functional and UI testing. 
 
 In this repository, I have included Scope of Work (SOW) document, selective sample bug reports, screenshots, screen recordings, and crash logs (if applicable) to demonstrate my approach to project documentation and bug reporting. Each bug report is written as a separate markdown file. 
+Please find the Scope of Work (SOW) document here: (https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/scope-of-work-mydemoapp.md)
 
 ## Bug Reports
 
